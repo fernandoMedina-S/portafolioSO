@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portafolioSO/static/css/main.4d6fe1b6.css",
+    "main.js": "/portafolioSO/static/js/main.e4eccb67.js",
+    "static/js/787.ae0d8d37.chunk.js": "/portafolioSO/static/js/787.ae0d8d37.chunk.js",
+    "static/media/cucei.jpg": "/portafolioSO/static/media/cucei.06c889512615fd0e1046.jpg",
+    "static/media/card.jpg": "/portafolioSO/static/media/card.e0532012d5653c2ffa3f.jpg",
+    "static/media/lotes.PNG": "/portafolioSO/static/media/lotes.582b12c51181c9cc0ee2.PNG",
+    "static/media/lectura.PNG": "/portafolioSO/static/media/lectura.b34b69804bae0595a7df.PNG",
+    "static/media/controladores.PNG": "/portafolioSO/static/media/controladores.0c81b1cb13d09ecf8934.PNG",
+    "static/media/almacenamiento.PNG": "/portafolioSO/static/media/almacenamiento.d2b69990dd6ed418c1dc.PNG",
+    "static/media/multi.PNG": "/portafolioSO/static/media/multi.b30903dda17b14f34da9.PNG",
+    "static/media/admin.PNG": "/portafolioSO/static/media/admin.a852fa22cce3ab549496.PNG",
+    "index.html": "/portafolioSO/index.html",
+    "main.4d6fe1b6.css.map": "/portafolioSO/static/css/main.4d6fe1b6.css.map",
+    "main.e4eccb67.js.map": "/portafolioSO/static/js/main.e4eccb67.js.map",
+    "787.ae0d8d37.chunk.js.map": "/portafolioSO/static/js/787.ae0d8d37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6fe1b6.css",
+    "static/js/main.e4eccb67.js"
+  ]
+}
