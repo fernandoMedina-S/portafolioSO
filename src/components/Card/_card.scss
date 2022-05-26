@@ -1,0 +1,32 @@
+.card__main-container{
+    border: solid #006d77;
+    height: 48vh;
+    width: 40vh;
+    background-color: #edf6f9;
+    margin: 2.2rem;
+    border-radius: 1rem;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.card__text-area{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1rem;
+    text-align: center;
+    margin: .5rem;
+    margin-bottom: 1rem;
+}
+
+.card__button{
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end !important;
+}
+
+.card__image{
+    min-width: 40vh;
+    max-width: 40vh;
+    max-height: 25vh;
+    border-radius: 1rem 1rem 0 0;
+}

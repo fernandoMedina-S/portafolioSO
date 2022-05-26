@@ -1,0 +1,20 @@
+.conclusion__main-container{
+    min-height: 100vh;
+    background-color: #ffddd2;
+    margin-top: .5rem;
+    margin-inline: -.5rem;
+    margin-bottom: -.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    font-size: 2rem;
+    
+    & p{
+        font-size: 1.8rem;
+        margin: .5rem;
+        margin-inline: 2rem;
+        font-family: 'Tiro Bangla', serif;
+    }
+}

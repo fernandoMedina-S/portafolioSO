@@ -1,0 +1,36 @@
+html{
+    padding: 0;
+    margin: 0;
+}
+
+.main-page__main-container{
+    margin: auto;
+    margin-left: -1rem;
+    margin-right: -.5rem;
+    margin-top: -.5rem;
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, .7), transparent), url("../assets/cucei.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    & a{
+        text-decoration: none;
+        color: black;
+    }
+
+    & button{
+        padding: 1rem 3rem;
+        background: #FDEFF4;
+        border: none;
+        font-size: 1rem;
+        cursor: pointer;
+        margin: 1rem;
+    }
+}
